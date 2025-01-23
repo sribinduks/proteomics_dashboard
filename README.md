@@ -11,4 +11,4 @@ This dashboard predicts the confidence and efficacy of disease-causing drugs by 
 ## **Getting Started**  
 1. Clone the repository:  
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/sribinduks/proteomics_dashboard.git>
