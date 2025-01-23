@@ -5,7 +5,7 @@ This dashboard predicts the confidence and efficacy of disease-causing drugs by 
 
 ## **Features**  
 - **Interactive Visualization:** Customizable plots to explore proteomics datasets.  
-- **Confidence and Efficacy Prediction:** Machine learning-based insights into drug reliability and effectiveness.  
+- **Confidence and Efficacy Prediction:** Data-driven insights into drug reliability and effectiveness.  
 - **Streamlined Workflow:** User-friendly interface for faster data exploration and decision-making.
 
 ## **Getting Started**  
